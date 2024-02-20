@@ -7,6 +7,19 @@
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 February 2024 - To: 20 February 2024
+
+Total Time: 11 hrs 59 mins
+
+TypeScript   9 hrs 47 mins   >>>>>>>>>>>>>>>>>>>>-----   81.61 %
+HTML         35 mins         >------------------------   04.87 %
+YAML         27 mins         >------------------------   03.88 %
+Python       24 mins         >------------------------   03.43 %
+Other        18 mins         >------------------------   02.53 %
+```
+
 <!--END_SECTION:waka-->
 
 ❤️ **My Skills**
