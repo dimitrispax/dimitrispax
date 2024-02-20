@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Dimitris.</h2>
 
-<!--
-**dimitrispax/dimitrispax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠  I'm seeking to secure my first position as a **Junior Full-Stack Web Developer**.
+- 🌱 I'm currently learning **Vite, React, Node.js and TypeScript**.
+- 🧭 I'm Always eager to explore and try new things.
+  
+📊 **Weekly development breakdown**
 
-Here are some ideas to get you started:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ **My Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,js,nodejs,express,react,vite,tailwind,mongodb,postgres,jest,git,md,vscode,postman,figma,linux,bash,py,java,php&theme=light&perline=11)](https://skillicons.dev)
+
+
+<a href="https://wakatime.com/@018db2c8-3e4e-4392-80be-2ef5619c010a"><img src="https://wakatime.com/badge/user/018db2c8-3e4e-4392-80be-2ef5619c010a.svg?style=plastic" /></a>
+
+![](https://hit.yhype.me/github/profile?user_id=45003429)
