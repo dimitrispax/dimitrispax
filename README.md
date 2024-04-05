@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2024 - To: 03 April 2024
+From: 28 March 2024 - To: 04 April 2024
 
-Total Time: 0 secs
+Total Time: 2 hrs 40 mins
 
-No activity tracked
+JavaScript   2 hrs 31 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.52 %
+Other        3 mins          >------------------------   02.28 %
+Markdown     2 mins          -------------------------   01.50 %
+JSON         0 secs          -------------------------   00.55 %
+Git Config   0 secs          -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
