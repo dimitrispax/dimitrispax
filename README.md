@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Dimitris.</h2>
 
-- 🛠 **Back-End Developer** at BestPrice.gr
+- 🛠 I'm a **Back-End Developer** that works for BestPrice.gr
 - 🌱 I'm currently learning **TypeScript and Java**.
 - 🧭 I'm Always eager to explore and try new things.
   
