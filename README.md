@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Dimitris.</h2>
 
-- 🛠  I'm seeking to secure my first position as a **Junior Full-Stack Web Developer**.
-- 🌱 I'm currently learning **Vite, React, Node.js and TypeScript**.
+- 🛠 **Back-End Developer** at BestPrice.gr
+- 🌱 I'm currently learning **TypeScript and Java**.
 - 🧭 I'm Always eager to explore and try new things.
   
 📊 **Weekly development breakdown**
