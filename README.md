@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Dimitris.</h2>
 
 - 🛠 I'm a **Back-End Developer** at [BestPrice.gr](https://bestprice.gr),
-- 🌱 I'm currently learning **TypeScript and Java**.
+- 🌱 I'm currently learning **TypeScript and C#**.
 - 🧭 I'm Always eager to explore and try new things.
   
 📊 **Weekly development breakdown**
