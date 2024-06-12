@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-Total Time: 25 hrs 21 mins
+Total Time: 29 hrs 58 mins
 
-JavaScript                 14 hrs 40 mins  >>>>>>>>>>>>>>-----------   57.88 %
-C#                         5 hrs 46 mins   >>>>>>-------------------   22.77 %
-Docker                     1 hr 24 mins    >------------------------   05.55 %
-TypeScript                 1 hr 15 mins    >------------------------   04.97 %
-SQL                        41 mins         >------------------------   02.74 %
+JavaScript                 18 hrs 6 mins   >>>>>>>>>>>>>>>----------   60.38 %
+C#                         6 hrs 19 mins   >>>>>--------------------   21.12 %
+TypeScript                 1 hr 48 mins    >>-----------------------   06.03 %
+Docker                     1 hr 24 mins    >------------------------   04.70 %
+Go                         41 mins         >------------------------   02.32 %
 ```
 
 <!--END_SECTION:waka-->
