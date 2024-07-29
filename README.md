@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2024 - To: 27 July 2024
+From: 21 July 2024 - To: 28 July 2024
 
-Total Time: 27 hrs 34 mins
+Total Time: 27 hrs 54 mins
 
-JavaScript    23 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>>----   85.88 %
-C#            2 hrs 23 mins   >>-----------------------   08.65 %
-Go            1 hr 25 mins    >------------------------   05.18 %
+JavaScript    23 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>>----   84.85 %
+C#            2 hrs 43 mins   >>-----------------------   09.74 %
+Go            1 hr 25 mins    >------------------------   05.11 %
 Other         2 mins          -------------------------   00.18 %
 JSON          1 min           -------------------------   00.10 %
 ```
