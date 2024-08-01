@@ -24,7 +24,7 @@ Other         3 mins          -------------------------   00.17 %
 
 ❤️ **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,js,nodejs,express,react,vite,tailwind,mongodb,postgres,jest,git,md,vscode,postman,figma,linux,bash,py,java,php&theme=light&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,express,react,vite,tailwind,mongodb,postgres,jest,git,md,vscode,postman,figma,linux,bash,py,java,php&theme=light&perline=11)](https://skillicons.dev)
 
 
 <a href="https://wakatime.com/@018db2c8-3e4e-4392-80be-2ef5619c010a"><img src="https://wakatime.com/badge/user/018db2c8-3e4e-4392-80be-2ef5619c010a.svg?style=plastic" /></a>
