@@ -22,7 +22,7 @@ Other         3 mins          -------------------------   00.17 %
 
 <!--END_SECTION:waka-->
 
-❤️ ** *Skills* and *Tools* in my arsernal**
+❤️ ** Skills and Tools in my arsernal**
 
 [![SkillsAndTools](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,express,react,vite,tailwind,mongodb,postgres,jest,git,md,vscode,postman,figma,linux,bash,py,java,php&theme=light&perline=11)](https://skillicons.dev)
 
