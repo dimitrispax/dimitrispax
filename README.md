@@ -22,7 +22,7 @@ Other        9 mins          -------------------------   00.47 %
 
 <!--END_SECTION:waka-->
 
-❤️ ***Skills* & *Tools* in my arsenal**
+❤️ **Skills & Tools in my arsenal**
 
 [![SkillsAndTools](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,express,react,vite,tailwind,mongodb,postgres,jest,git,md,vscode,postman,figma,linux,bash,py,java,php&theme=light&perline=11)](https://skillicons.dev)
 
