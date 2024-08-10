@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-Total Time: 34 hrs
+Total Time: 34 hrs 56 mins
 
-JavaScript    22 hrs 23 mins  >>>>>>>>>>>>>>>>---------   65.84 %
-Go            5 hrs 34 mins   >>>>---------------------   16.41 %
-TypeScript    5 hrs 11 mins   >>>>---------------------   15.29 %
-Other         23 mins         -------------------------   01.13 %
-C#            13 mins         -------------------------   00.66 %
+JavaScript    23 hrs 43 mins  >>>>>>>>>>>>>>>>>--------   67.89 %
+Go            5 hrs 16 mins   >>>>---------------------   15.09 %
+TypeScript    5 hrs 11 mins   >>>>---------------------   14.88 %
+Other         19 mins         -------------------------   00.92 %
+C#            13 mins         -------------------------   00.64 %
 ```
 
 <!--END_SECTION:waka-->
