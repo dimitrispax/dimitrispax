@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Total Time: 37 hrs 33 mins
+Total Time: 35 hrs 52 mins
 
-JavaScript    24 hrs 49 mins  >>>>>>>>>>>>>>>>>--------   66.11 %
-C#            4 hrs 49 mins   >>>----------------------   12.87 %
-TypeScript    3 hrs 58 mins   >>>----------------------   10.61 %
-C++           1 hr 56 mins    >------------------------   05.19 %
-Go            35 mins         -------------------------   01.58 %
+JavaScript    24 hrs 19 mins  >>>>>>>>>>>>>>>>>--------   67.82 %
+C#            5 hrs 51 mins   >>>>---------------------   16.32 %
+TypeScript    2 hrs 1 min     >------------------------   05.64 %
+C++           1 hr 24 mins    >------------------------   03.91 %
+Other         59 mins         >------------------------   02.75 %
 ```
 
 <!--END_SECTION:waka-->
