@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-Total Time: 4 hrs 46 mins
+Total Time: 5 hrs 30 mins
 
-JavaScript   3 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>----   82.10 %
-Python       40 mins         >>>>---------------------   14.21 %
-Other        5 mins          >------------------------   02.09 %
-TypeScript   4 mins          -------------------------   01.42 %
-Git          0 secs          -------------------------   00.19 %
+JavaScript   3 hrs 55 mins   >>>>>>>>>>>>>>>>>>-------   71.12 %
+Python       1 hr 17 mins    >>>>>>-------------------   23.39 %
+Other        13 mins         >------------------------   04.10 %
+TypeScript   4 mins          -------------------------   01.23 %
+Git          0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
