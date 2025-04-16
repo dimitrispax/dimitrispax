@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Total Time: 30 hrs
+Total Time: 30 hrs 6 mins
 
-JavaScript   15 hrs 19 mins  >>>>>>>>>>>>>------------   51.05 %
-TypeScript   13 hrs 5 mins   >>>>>>>>>>>--------------   43.63 %
-C++          1 hr 9 mins     >------------------------   03.86 %
+TypeScript   14 hrs 27 mins  >>>>>>>>>>>>-------------   48.04 %
+JavaScript   13 hrs 48 mins  >>>>>>>>>>>--------------   45.89 %
+C++          1 hr 31 mins    >------------------------   05.09 %
 HTML         13 mins         -------------------------   00.76 %
-Go           8 mins          -------------------------   00.47 %
+CSS          1 min           -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
