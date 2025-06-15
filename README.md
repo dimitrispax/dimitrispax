@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 42 hrs 9 mins
+Total Time: 43 hrs 6 mins
 
-TypeScript    23 hrs 25 mins  >>>>>>>>>>>>>>-----------   55.55 %
-JavaScript    16 hrs 19 mins  >>>>>>>>>>---------------   38.73 %
-JSON          48 mins         -------------------------   01.90 %
-Markdown      40 mins         -------------------------   01.60 %
-HTML          34 mins         -------------------------   01.38 %
+TypeScript    24 hrs 4 mins   >>>>>>>>>>>>>>-----------   55.85 %
+JavaScript    16 hrs 19 mins  >>>>>>>>>----------------   37.88 %
+JSON          1 hr 5 mins     >------------------------   02.53 %
+Markdown      40 mins         -------------------------   01.56 %
+HTML          34 mins         -------------------------   01.35 %
 ```
 
 <!--END_SECTION:waka-->
