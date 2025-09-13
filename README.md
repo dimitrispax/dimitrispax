@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2025 - To: 11 September 2025
+From: 05 September 2025 - To: 12 September 2025
 
-Total Time: 27 hrs 40 mins
+Total Time: 27 hrs 39 mins
 
-TypeScript                 13 hrs 29 mins  >>>>>>>>>>>>-------------   48.80 %
-JavaScript                 12 hrs 16 mins  >>>>>>>>>>>--------------   44.35 %
-Docker                     29 mins         -------------------------   01.78 %
-Markdown                   28 mins         -------------------------   01.72 %
+TypeScript                 14 hrs 39 mins  >>>>>>>>>>>>>------------   52.98 %
+JavaScript                 11 hrs 41 mins  >>>>>>>>>>>--------------   42.25 %
 C++                        21 mins         -------------------------   01.28 %
+Docker                     17 mins         -------------------------   01.04 %
+Markdown                   16 mins         -------------------------   00.99 %
 ```
 
 <!--END_SECTION:waka-->
