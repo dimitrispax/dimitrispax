@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-Total Time: 20 hrs 2 mins
+Total Time: 18 hrs 22 mins
 
-JavaScript   10 hrs 30 mins  >>>>>>>>>>>>>------------   52.44 %
-TypeScript   6 hrs 16 mins   >>>>>>>>-----------------   31.33 %
-Other        1 hr 6 mins     >------------------------   05.53 %
-Markdown     52 mins         >------------------------   04.33 %
-SQL          28 mins         >------------------------   02.38 %
+JavaScript   8 hrs 44 mins   >>>>>>>>>>>>-------------   47.58 %
+TypeScript   6 hrs 27 mins   >>>>>>>>>----------------   35.12 %
+Other        1 hr 6 mins     >>-----------------------   06.03 %
+Markdown     1 hr 2 mins     >------------------------   05.63 %
+SQL          28 mins         >------------------------   02.59 %
 ```
 
 <!--END_SECTION:waka-->
